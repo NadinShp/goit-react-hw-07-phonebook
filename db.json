@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Igor",
+      "number": "98765432",
+      "id": "PwYKQCN"
+    },
+    {
+      "name": "Katrin",
+      "number": "65321984",
+      "id": "9YIgQOQ"
+    },
+    {
+      "name": "Oleg",
+      "number": "65432189",
+      "id": "l88goBsTc"
+    },
+    {
+      "name": "Mary",
+      "number": "564879321",
+      "id": "ZaJvKfg6k"
+    },
+    {
+      "name": "Garry",
+      "number": "789654321",
+      "id": "byio7epU6"
+    },
+    {
+      "name": "Ann",
+      "number": "445566998",
+      "id": "4oIHBTPwI"
+    }
+  ]
+}
